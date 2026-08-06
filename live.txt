@@ -4,3 +4,4 @@ live-3
 live-4
 live-5
 native-test
+native-only
